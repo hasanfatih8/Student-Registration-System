@@ -1,0 +1,847 @@
+[
+    {
+        "courseName": "CSE1241",
+        "courseGroup": "SME1",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 6.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "0-10.30-11.20",
+                "0-11.30-12.20",
+                "2-14.00-14.50",
+                "1-13.00-13.50",
+                "1-14.00-14.50"
+            ]
+        }
+    },
+    {
+        "courseName": "MATH1001",
+        "courseGroup": "SME1",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 6.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "1-08.30-09.20",
+                "1-09.30-10.20",
+                "3-08.30-09.20",
+                "3-09.30-10.20"
+            ]
+        }
+    },
+    {
+        "courseName": "PHYS1101",
+        "courseGroup": "SME1",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 4.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "1-15.00-15.50",
+                "3-14.00-14.50",
+                "3-15.00-15.50"
+            ]
+        }
+    },
+    {
+        "courseName": "PHYS1103",
+        "courseGroup": "SME1",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 2.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "0-08.30-09.20",
+                "0-09.30-10.20"
+            ]
+        }
+    },
+    {
+        "courseName": "ATA122",
+        "courseGroup": "SME2",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 2.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "6-13.00-13.50",
+                "6-14.00-14.50"
+            ]
+        }
+    },
+    {
+        "courseName": "CSE1242",
+        "courseGroup": "SME2",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 6.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "0-11.00-11.50",
+                "0-12.00-12.50",
+                "1-11.00-11.50",
+                "2-15.00-15.50",
+                "2-16.00-16.50"
+            ]
+        }
+    },
+    {
+        "courseName": "MATH1002",
+        "courseGroup": "SME2",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 6.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "1-09.00-09.50",
+                "1-10.00-10.50",
+                "2-10.00-10.50",
+                "2-11.00-11.50"
+            ]
+        }
+    },
+    {
+        "courseName": "MATH2256",
+        "courseGroup": "SME2",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 5.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "0-10.00-10.50",
+                "3-10.00-10.50",
+                "3-11.00-11.50"
+            ]
+        }
+    },
+    {
+        "courseName": "PHYS1102",
+        "courseGroup": "SME2",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 4.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "3-14.00-14.50",
+                "3-15.00-15.50",
+                "3-16.00-16.50"
+            ]
+        }
+    },
+    {
+        "courseName": "PHYS1104",
+        "courseGroup": "SME2",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 2.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "0-14.00-14.50",
+                "0-15.00-15.50"
+            ]
+        }
+    },
+    {
+        "courseName": "TRD122",
+        "courseGroup": "SME2",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 2.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "5-09.00-09.50",
+                "5-10.00-10.50"
+            ]
+        }
+    },
+    {
+        "courseName": "CSE2023",
+        "courseGroup": "SME3",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 6.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "0-13.00-13.50",
+                "0-14.00-14.50",
+                "2-16.00-16.50"
+            ]
+        }
+    },
+    {
+        "courseName": "ECON2004",
+        "courseGroup": "SME3",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 4.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "1-18.00-18.50",
+                "1-19.00-19.50"
+            ]
+        }
+    },
+    {
+        "courseName": "MATH2055",
+        "courseGroup": "SME3",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 4.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "0-09.30-10.20",
+                "2-08.30-09.20",
+                "2-09.30-10.20"
+            ]
+        }
+    },
+    {
+        "courseName": "MATH2059",
+        "courseGroup": "SME3",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 4.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "1-15.00-15.50",
+                "1-16.00-16.50",
+                "3-15.00-15.50"
+            ]
+        }
+    },
+    {
+        "courseName": "CSE2246",
+        "courseGroup": "SME4",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "CSE2225",
+        "courseCredits": 6.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "3-13.00-13.50",
+                "4-14.00-14.50",
+                "4-15.00-15.50"
+            ]
+        }
+    },
+    {
+        "courseName": "CSE2138",
+        "courseGroup": "SME4",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 7.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "0-14.00-14.50",
+                "1-13.00-13.50",
+                "2-10.00-10.50",
+                "2-11.00-11.50"
+            ]
+        }
+    },
+    {
+        "courseName": "CSE2260",
+        "courseGroup": "SME4",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 6.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "4-13.00-13.50",
+                "2-16.00-16.50",
+                "2-17.00-17.50",
+                "4-16.00-16.50",
+                "4-17.00-17.50"
+            ]
+        }
+    },
+    {
+        "courseName": "EE2032",
+        "courseGroup": "SME4",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 5.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "2-14.00-14.50",
+                "2-15.00-15.50",
+                "3-17.00-17.50",
+                "3-18.00-18.50"
+            ]
+        }
+    },
+    {
+        "courseName": "STAT2253",
+        "courseGroup": "SME4",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 5.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "0-16.00-16.50",
+                "1-14.00-14.50",
+                "1-15.00-15.50"
+            ]
+        }
+    },
+    {
+        "courseName": "CSE3038",
+        "courseGroup": "SME6",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 7.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "2-10.00-10.50",
+                "2-11.00-11.50",
+                "3-11.00-11.50",
+                "4-10.00-10.50",
+                "4-11.00-11.50"
+            ]
+        }
+    },
+    {
+        "courseName": "CSE3044",
+        "courseGroup": "SME6",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 7.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "2-09.00-09.50",
+                "3-09.00-09.50",
+                "3-10.00-10.50",
+                "1-16.00-16.50",
+                "1-17.00-17.50"
+            ]
+        }
+    },
+    {
+        "courseName": "CSE3048",
+        "courseGroup": "SME6",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 5.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "1-11.00-11.50",
+                "1-12.00-12.50",
+                "3-12.00-12.50"
+            ]
+        }
+    },
+    {
+        "courseName": "CSE3264",
+        "courseGroup": "SME6",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 5.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "0-11.00-11.50",
+                "0-12.00-12.50",
+                "4-09.00-09.50"
+            ]
+        }
+    },
+    {
+        "courseName": "IE3235",
+        "courseGroup": "SME6",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 4.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "0-09.00-09.50",
+                "0-10.00-10.50",
+                "1-10.00-10.50"
+            ]
+        }
+    },
+    {
+        "courseName": "COMM2202",
+        "courseGroup": "SME6",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 2.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "4-18.00-18.50",
+                "4-19.00-19.50"
+            ]
+        }
+    },
+    {
+        "courseName": "ISG121",
+        "courseGroup": "SME7",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 2.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "5-13.00-13.50",
+                "5-14.00-14.50"
+            ]
+        }
+    },
+    {
+        "courseName": "CSE4297",
+        "courseGroup": "SME7",
+        "requiredCredits": 165,
+        "prerequisiteCourse": "",
+        "courseCredits": 5.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "5-08.30-09.20",
+                "5-09.30-10.20"
+            ]
+        }
+    },
+    {
+        "courseName": "CSE4298",
+        "courseGroup": "SME8",
+        "requiredCredits": 165,
+        "prerequisiteCourse": "CSE4297",
+        "courseCredits": 5.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "5-12.00-12.50",
+                "5-13.00-13.50"
+            ]
+        }
+    },
+    {
+        "courseName": "ISG122",
+        "courseGroup": "SME8",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 2.0,
+        "courseQuota": 0,
+        "courseSchedule": {
+            "timeTable": [
+                "5-17.00-17.50",
+                "5-18.00-18.50"
+            ]
+        }
+    },
+    {
+        "courseName": "BUS1004",
+        "courseGroup": "NTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 3.0,
+        "courseQuota": 60,
+        "courseSchedule": {
+            "timeTable": [
+                "2-09.00-09.50",
+                "2-10.00-10.50"
+            ]
+        }
+    },
+    {
+        "courseName": "COMM2060",
+        "courseGroup": "NTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 3.0,
+        "courseQuota": 60,
+        "courseSchedule": {
+            "timeTable": [
+                "4-18.00-18.50",
+                "4-19.00-19.50"
+            ]
+        }
+    },
+    {
+        "courseName": "NTE1006",
+        "courseGroup": "NTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 3.0,
+        "courseQuota": 70,
+        "courseSchedule": {
+            "timeTable": [
+                "1-10.00-10.50",
+                "1-11.00-11.50"
+            ]
+        }
+    },
+    {
+        "courseName": "NTE1010",
+        "courseGroup": "NTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 3.0,
+        "courseQuota": 70,
+        "courseSchedule": {
+            "timeTable": [
+                "2-17.00-17.50",
+                "2-18.00-18.50"
+            ]
+        }
+    },
+    {
+        "courseName": "NTE1014",
+        "courseGroup": "NTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 3.0,
+        "courseQuota": 50,
+        "courseSchedule": {
+            "timeTable": [
+                "1-15.00-15.50",
+                "1-16.00-16.50"
+            ]
+        }
+    },
+    {
+        "courseName": "NTE1015",
+        "courseGroup": "NTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 3.0,
+        "courseQuota": 90,
+        "courseSchedule": {
+            "timeTable": [
+                "3-11.00-11.50",
+                "3-12.00-12.50"
+            ]
+        }
+    },
+    {
+        "courseName": "NTE1016",
+        "courseGroup": "NTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 3.0,
+        "courseQuota": 90,
+        "courseSchedule": {
+            "timeTable": [
+                "3-15.00-15.50",
+                "3-16.00-16.50"
+            ]
+        }
+    },
+    {
+        "courseName": "NTE1017",
+        "courseGroup": "NTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 3.0,
+        "courseQuota": 70,
+        "courseSchedule": {
+            "timeTable": [
+                "4-10.00-10.50",
+                "4-11.00-11.50"
+            ]
+        }
+    },
+    {
+        "courseName": "OB3043",
+        "courseGroup": "NTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 3.0,
+        "courseQuota": 71,
+        "courseSchedule": {
+            "timeTable": [
+                "5-15.00-15.50",
+                "5-16.00-16.50"
+            ]
+        }
+    },
+    {
+        "courseName": "YDA1001",
+        "courseGroup": "NTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 3.0,
+        "courseQuota": 105,
+        "courseSchedule": {
+            "timeTable": [
+                "1-10.00-10.50",
+                "1-11.00-11.50"
+            ]
+        }
+    },
+    {
+        "courseName": "YDA1002",
+        "courseGroup": "NTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 3.0,
+        "courseQuota": 105,
+        "courseSchedule": {
+            "timeTable": [
+                "1-13.00-13.50",
+                "1-14.00-14.50"
+            ]
+        }
+    },
+    {
+        "courseName": "YDA1003",
+        "courseGroup": "NTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 3.0,
+        "courseQuota": 105,
+        "courseSchedule": {
+            "timeTable": [
+                "3-13.00-13.50",
+                "3-14.00-14.50"
+            ]
+        }
+    },
+    {
+        "courseName": "YDI1004",
+        "courseGroup": "NTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 3.0,
+        "courseQuota": 60,
+        "courseSchedule": {
+            "timeTable": [
+                "2-13.00-13.50",
+                "2-14.00-14.50"
+            ]
+        }
+    },
+    {
+        "courseName": "YDIS1002",
+        "courseGroup": "NTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 3.0,
+        "courseQuota": 52,
+        "courseSchedule": {
+            "timeTable": [
+                "1-10.00-10.50",
+                "1-11.00-11.50"
+            ]
+        }
+    },
+    {
+        "courseName": "BIOE4072",
+        "courseGroup": "FTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 5.0,
+        "courseQuota": 114,
+        "courseSchedule": {
+            "timeTable": [
+                "0-13.00-13.50",
+                "0-14.00-14.50",
+                "0-15.00-15.50"
+            ]
+        }
+    },
+    {
+        "courseName": "CHE4060",
+        "courseGroup": "FTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 5.0,
+        "courseQuota": 60,
+        "courseSchedule": {
+            "timeTable": [
+                "0-18.00-18.50",
+                "1-17.00-17.50",
+                "1-18.00-18.50"
+            ]
+        }
+    },
+    {
+        "courseName": "EE4062",
+        "courseGroup": "FTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 5.0,
+        "courseQuota": 77,
+        "courseSchedule": {
+            "timeTable": [
+                "0-16.00-16.50",
+                "2-17.00-17.50",
+                "2-18.00-18.50"
+            ]
+        }
+    },
+    {
+        "courseName": "ENVE4062",
+        "courseGroup": "FTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 5.0,
+        "courseQuota": 62,
+        "courseSchedule": {
+            "timeTable": [
+                "0-13.00-13.50",
+                "0-14.00-14.50",
+                "4-16.00-16.50"
+            ]
+        }
+    },
+    {
+        "courseName": "IE4055",
+        "courseGroup": "FTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 5.0,
+        "courseQuota": 80,
+        "courseSchedule": {
+            "timeTable": [
+                "0-15.00-15.50",
+                "0-16.00-16.50",
+                "0-17.00-17.50"
+            ]
+        }
+    },
+    {
+        "courseName": "MGT4082",
+        "courseGroup": "FTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 5.0,
+        "courseQuota": 126,
+        "courseSchedule": {
+            "timeTable": [
+                "4-09.00-09.50",
+                "4-10.00-10.50",
+                "4-11.00-11.50"
+            ]
+        }
+    },
+    {
+        "courseName": "MGT4084",
+        "courseGroup": "FTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 5.0,
+        "courseQuota": 30,
+        "courseSchedule": {
+            "timeTable": [
+                "4-14.00-14.50",
+                "4-15.00-15.50",
+                "4-16.00-16.50"
+            ]
+        }
+    },
+    {
+        "courseName": "MGT4088",
+        "courseGroup": "FTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 5.0,
+        "courseQuota": 40,
+        "courseSchedule": {
+            "timeTable": [
+                "0-10.00-10.50",
+                "0-11.00-11.50",
+                "0-12.00-12.50"
+            ]
+        }
+    },
+    {
+        "courseName": "MSE4073",
+        "courseGroup": "FTE",
+        "requiredCredits": 0,
+        "prerequisiteCourse": "",
+        "courseCredits": 5.0,
+        "courseQuota": 64,
+        "courseSchedule": {
+            "timeTable": [
+                "1-13.00-13.50",
+                "1-14.00-14.50",
+                "3-14.00-14.50"
+            ]
+        }
+    },
+    {
+        "courseName": "CSE4053",
+        "courseGroup": "TE",
+        "requiredCredits": 155,
+        "prerequisiteCourse": "",
+        "courseCredits": 5.0,
+        "courseQuota": 45,
+        "courseSchedule": {
+            "timeTable": [
+                "2-15.00-15.50",
+                "2-16.00-16.50",
+                "3-11.00-11.50"
+            ]
+        }
+    },
+    {
+        "courseName": "CSE4057",
+        "courseGroup": "TE",
+        "requiredCredits": 155,
+        "prerequisiteCourse": "",
+        "courseCredits": 5.0,
+        "courseQuota": 48,
+        "courseSchedule": {
+            "timeTable": [
+                "3-14.00-14.50",
+                "3-15.00-15.50",
+                "4-16.00-16.50"
+            ]
+        }
+    },
+    {
+        "courseName": "CSE4062",
+        "courseGroup": "TE",
+        "requiredCredits": 155,
+        "prerequisiteCourse": "",
+        "courseCredits": 5.0,
+        "courseQuota": 68,
+        "courseSchedule": {
+            "timeTable": [
+                "1-11.00-11.50",
+                "2-10.00-10.50",
+                "2-11.00-11.50"
+            ]
+        }
+    },
+    {
+        "courseName": "CSE4075",
+        "courseGroup": "TE",
+        "requiredCredits": 155,
+        "prerequisiteCourse": "",
+        "courseCredits": 5.0,
+        "courseQuota": 60,
+        "courseSchedule": {
+            "timeTable": [
+                "1-17.00-17.50",
+                "4-14.00-14.50",
+                "4-15.00-15.50"
+            ]
+        }
+    }
+]
